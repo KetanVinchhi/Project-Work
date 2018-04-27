@@ -1,0 +1,42 @@
+/* CSS Document for Cholis page*/
+	.logo 
+	{
+		
+	}
+	.logo img{
+		width:500px;
+		margin-left:420px;
+		padding-top:50px;
+	}
+	
+	
+	.wrapper
+	{
+		margin-top:100px;
+	}
+	img
+	{
+		object-fit:cover;
+		/* fill,contain,cover,none,scale-down */
+	}
+	.main_div img
+	{
+		width:430px;
+		height:250px;
+	}
+	div.image_portion
+	{
+		width:430px;
+		background-color:white;
+		margin:5px 5px;
+		float:left;
+		box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+		margin-bottom:25px;
+	}
+	.image-container
+	{
+		text-align:center;
+		padding:10px 20px;
+	}
+	
+	
